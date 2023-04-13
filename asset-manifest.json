@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EspressoYourself/static/css/main.0a8945ce.css",
+    "main.js": "/EspressoYourself/static/js/main.126dad00.js",
+    "static/js/787.eafc9ab9.chunk.js": "/EspressoYourself/static/js/787.eafc9ab9.chunk.js",
+    "static/media/cortado-square.png": "/EspressoYourself/static/media/cortado-square.913b8d51702cdcac6575.png",
+    "static/media/ChangaOne-Regular.ttf": "/EspressoYourself/static/media/ChangaOne-Regular.e2310a7bea3a3dcd0b73.ttf",
+    "static/media/latte-square.png": "/EspressoYourself/static/media/latte-square.d234143d7c046c5f7226.png",
+    "index.html": "/EspressoYourself/index.html",
+    "main.0a8945ce.css.map": "/EspressoYourself/static/css/main.0a8945ce.css.map",
+    "main.126dad00.js.map": "/EspressoYourself/static/js/main.126dad00.js.map",
+    "787.eafc9ab9.chunk.js.map": "/EspressoYourself/static/js/787.eafc9ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8945ce.css",
+    "static/js/main.126dad00.js"
+  ]
+}
