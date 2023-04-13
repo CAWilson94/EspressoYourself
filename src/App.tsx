@@ -1,24 +1,29 @@
 import React from 'react';
-import logo from './logo.svg';
+import latte from './latte-square.png';
+import cortado from './cortado-square.png';
+
 import './App.css';
+import NavBarCoffee from './NavBar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+      <NavBarCoffee />
+      <div className="Cortado">
+        <img style={{ width: 626 }} src={cortado} alt="React Image" />
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+
         </a>
-      </header>
+      </div>
+      <div className="Latte">
+        <img style={{ width: 626 }} src={latte} alt="React Image" />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,15 @@
+.navbar-brand{
+    color: white !important;
+    background-color: transparent;
+    font-size: 40px !important;
+    font-family: 'CHANGA-ONE';
+  }
+
+.navbar { 
+    background: none;
+}
+
+@font-face {
+    font-family: 'CHANGA-ONE';
+    src: local(ChangaOne-Regular), url(./fonts/Changa_One/ChangaOne-Regular.ttf);
+  }

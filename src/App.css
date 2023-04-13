@@ -1,3 +1,26 @@
+.Latte { 
+  background-color: #F2DE9F;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Cortado { 
+  height: 100vh;
+  background-color: #9EBFBF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.CoffeeImage { 
+  width: 948px;
+  height: auto;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +37,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #9EBFBF;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
