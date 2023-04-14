@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/EspressoYourself/static/css/main.b51ae98d.css",
-    "main.js": "/EspressoYourself/static/js/main.74ef3f10.js",
+    "main.js": "/EspressoYourself/static/js/main.c556eefd.js",
     "static/js/787.eafc9ab9.chunk.js": "/EspressoYourself/static/js/787.eafc9ab9.chunk.js",
     "static/media/ChangaOne-Regular.ttf": "/EspressoYourself/static/media/ChangaOne-Regular.e2310a7bea3a3dcd0b73.ttf",
     "static/media/cortadosquareT.png": "/EspressoYourself/static/media/cortadosquareT.0c53cd4a3a02af913297.png",
     "static/media/lattesquareT.png": "/EspressoYourself/static/media/lattesquareT.8875874def18d9e77a10.png",
     "index.html": "/EspressoYourself/index.html",
     "main.b51ae98d.css.map": "/EspressoYourself/static/css/main.b51ae98d.css.map",
-    "main.74ef3f10.js.map": "/EspressoYourself/static/js/main.74ef3f10.js.map",
+    "main.c556eefd.js.map": "/EspressoYourself/static/js/main.c556eefd.js.map",
     "787.eafc9ab9.chunk.js.map": "/EspressoYourself/static/js/787.eafc9ab9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b51ae98d.css",
-    "static/js/main.74ef3f10.js"
+    "static/js/main.c556eefd.js"
   ]
 }
