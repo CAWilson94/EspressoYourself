@@ -1,6 +1,6 @@
 import React from 'react';
-import latte from './latte-square.png';
-import cortado from './cortado-square.png';
+import latte from './lattesquareT.png';
+import cortado from './cortadosquareT.png';
 
 import './App.css';
 import NavBarCoffee from './NavBar';
