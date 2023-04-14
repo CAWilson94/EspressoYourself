@@ -74,7 +74,7 @@ function App() {
               end: "top 100px",
               // onEnter, onLeave, onEnterBack, onLeaveBack
               toggleActions: 'restart none none reset"', 
-              markers: true, 
+              //markers: true, 
             }
           }
         );
