@@ -16,8 +16,17 @@
   justify-content: center;
 }
 
+.EspressoYourself {
+  height: 100vh;
+  background-color: #BF926B;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .CoffeeImage { 
-  width: 948px;
+  width: 426px;
   height: auto;
 }
 
